@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{FF3BFCF4-4AFA-D620-6285-759179477229}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DoubleComp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
